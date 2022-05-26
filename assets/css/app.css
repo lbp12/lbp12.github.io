@@ -208,3 +208,11 @@ h5 {
     margin: 10px 0;
     font-size: 0.8rem;
 }
+@media screen and (min-width: 300px) and (max-width: 767px){
+
+
+    /* Hide captions class  */
+    .carousel-caption {
+       display: block !important;
+    }
+  }
