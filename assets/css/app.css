@@ -215,4 +215,10 @@ h5 {
     .carousel-caption {
        display: block !important;
     }
+
+    img {
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+    }
   }
